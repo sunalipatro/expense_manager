@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# output
+<img width="407" alt="Expenses manager app" src="https://github.com/sunalipatro/expense_manager/assets/95564560/4810729c-81ae-4df0-9e06-faf8bd40ddc1">
+<img width="401" alt="Expenses manager app 2" src="https://github.com/sunalipatro/expense_manager/assets/95564560/352c9a90-a402-4408-976d-1b6b194f58aa">
